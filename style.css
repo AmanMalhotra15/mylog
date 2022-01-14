@@ -1,0 +1,15 @@
+body {
+    margin-top: 50px;
+
+}
+a {
+    text-decoration: underline;
+    color: rgb(17, 12, 17);
+    font-size: 20px;
+
+} 
+#one{
+    color:rgb(51, 6, 250) !important;
+    font-size: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
